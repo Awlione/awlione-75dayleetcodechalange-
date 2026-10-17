@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Awlione/awlione-75dayleetcodechalange-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Awlione/awlione-75dayleetcodechalange-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Awlione/awlione-75dayleetcodechalange-/tree/master/0027-remove-element) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Awlione/awlione-75dayleetcodechalange-/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/Awlione/awlione-75dayleetcodechalange-/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
